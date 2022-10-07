@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)  
+- 👀 I’m interested in mobile application development and 3D graphics
+- 🌱 I’m currently learning Unity and C#
