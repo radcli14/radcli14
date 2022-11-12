@@ -40,7 +40,7 @@ I have since applied the knowledge gained in my professional job, creating lifel
 
 ## Two Links
 
-| Swifty Two Links                        | KotlyOtlyDobleDosLinks                      |
+| Swifty TwoLinks                         | KotlyOtly DobleDosLinks                     |
 |-----------------------------------------|---------------------------------------------|
 | <img src="iosTwoLinks.png" width="280"> | <img src="androidTwoLinks.png" width="295"> |
 
