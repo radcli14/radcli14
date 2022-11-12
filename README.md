@@ -21,6 +21,13 @@ MOMDYN is currently available on both the App Store and Google Play.
 
 
 ## Real-Time Simulation in Unity for Scientists and Engineers
+In fall of 2022 I took an 8 week course in Unity that is offered by my workplace.
+As we are aerospace engineers (not game developers), the course focused on the attributes of the Unity engine that are useful to the hard sciences.
+In particular, an emphasis was placed on scripting and the C# programming language.
+My own interest was in evaluating the built-in physics engine, with focus on its capacity to accurately simulate dynamics.
+Unfortunately, I came away with the impression that the physics engine only "looks" real, its not viable as an engineering tool on its own.
+However, I did gain experience in writing my own, accurate simulation models in the C# language, and rendering them in 3D.
+I have since applied the knowledge gained in my professional job, creating lifelike visualizations of rocket launches using kinematic states estimated from acceleromters.
 
 | All The Planets                           | Bouncy Attractors                            |
 |-------------------------------------------|----------------------------------------------|
