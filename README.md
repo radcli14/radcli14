@@ -8,7 +8,7 @@
 
 | Native iOS With SwiftUI and SceneKit  | Native Android with Kotlin and Filament.  |
 |---------------------------------------|-------------------------------------------|
-| <img src="iosMomdyn.png" width="256"> | <img src="androidMomdyn.png" width="256"> |
+| <img src="iosMomdyn.png" width="280"> | <img src="androidMomdyn.png" width="295"> |
 
 
 ## Real-Time Simulation in Unity for Scientists and Engineers
@@ -20,3 +20,15 @@
 | Gravity Well                            | Spinning Wrench                            |
 |-----------------------------------------|--------------------------------------------|
 | <img src="GravityWell.png" width="256"> | <img src="spinningWrench.png" width="256"> |
+
+
+## Two Links
+
+| Swifty Two Links                        | KotlyOtlyDobleDosLinks                      |
+|-----------------------------------------|---------------------------------------------|
+| <img src="iosTwoLinks.png" width="280"> | <img src="androidTwoLinks.png" width="295"> |
+
+
+## Euler Rotations in 3-Dimensions
+
+![ER3D](er3d.gif)
