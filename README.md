@@ -39,6 +39,11 @@ I have since applied the knowledge gained in my professional job, creating lifel
 
 
 ## Two Links
+During a period of time where I was binging double-pendulum videos on Youtube, I thought I should make my own version of one in app form.
+The physics of the double pendulum were initially evaluated in a Jupyter notebook using the Python `sympy.physics.mechanics` module.
+These equations were then translated into Swift and Kotlin code, and user interface was developed for iOS and Android.
+A user can control the dimension of the pendulum, and its colors.
+In the background is the moon and Earth.
 
 | Swifty TwoLinks                         | KotlyOtly DobleDosLinks                     |
 |-----------------------------------------|---------------------------------------------|
@@ -46,5 +51,8 @@ I have since applied the knowledge gained in my professional job, creating lifel
 
 
 ## Euler Rotations in 3-Dimensions
+While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
+The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
+The iOS app includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
 
 ![ER3D](er3d.gif)
