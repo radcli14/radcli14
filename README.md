@@ -4,7 +4,9 @@
 - I’m interested in mobile application development and 3D graphics
 - I am skilled in writing data analysis and simulation code in MATLAB and Python
 - I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
-- I’m currently learning Unity and C#
+- I’m currently learning Unity and 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radcli14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects 
 
