@@ -26,8 +26,8 @@ MOMDYN is currently available on both the App Store and Google Play.
 ## dRuBbLe
 dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
 We would take bar stools and try to run and bounce a kickball off of the top of the stools for as far of a distance as we could across a parking lot.
-[The original version was written in pure Python](github.com/radcli14/drubble) using the multiplatform framework [Kivy](kivy.org) to deploy on iOS and Android.
-I have recently started re-writing a [3D version of the game in Unity](github.com/radcli14/D3).
+[The original version](https://github.com/radcli14/drubble) was written in pure Python using the multiplatform framework [Kivy](kivy.org) to deploy on iOS and Android.
+I have recently started re-writing a [3D version](https://github.com/radcli14/D3) of the game in Unity.
 
 | dRuBbLe in Python with Kivy                 | dRuBbLe in Unity                      |
 |---------------------------------------------|---------------------------------------|
