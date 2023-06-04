@@ -8,6 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radcli14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
 # Projects 
 
 ## Mobile Multibody Dynamics
@@ -20,6 +21,17 @@ MOMDYN is currently available on both the App Store and Google Play.
 | Native iOS With SwiftUI and SceneKit  | Native Android with Kotlin and Filament.  |
 |---------------------------------------|-------------------------------------------|
 | <img src="iosMomdyn.png" width="280"> | <img src="androidMomdyn.png" width="295"> |
+
+
+## dRuBbLe
+dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
+We would take bar stools and try to run and bounce a kickball off of the top of the stools for as far of a distance as we could across a parking lot.
+[The original version was written in pure Python](github.com/radcli14/drubble) using the multiplatform framework [Kivy](kivy.org) to deploy on iOS and Android.
+I have recently started re-writing a [3D version of the game in Unity](github.com/radcli14/D3).
+
+| dRuBbLe in Python with Kivy                 | dRuBbLe in Unity                      |
+|---------------------------------------------|---------------------------------------|
+| <img src="drubbleOriginal.png" width="280"> | <img src="drubble3d.jpg" width="295"> |
 
 
 ## Real-Time Simulation in Unity for Scientists and Engineers
