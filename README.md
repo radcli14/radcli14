@@ -1,7 +1,7 @@
 # Summary
 
 - Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)  
-- My [resumé](https://radcli14.github.io/resume/) is hosted on GitHub and made in Markdown text
+- My [resumé](https://radcli14.github.io/resume/) is hosted on GitHub and created in Markdown text
 - I’m interested in mobile application development and 3D graphics
 - I am skilled in writing data analysis and simulation code in MATLAB and Python
 - I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
