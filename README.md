@@ -9,6 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radcli14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/radcli14)
 
 # Projects 
 
@@ -23,6 +24,35 @@ MOMDYN is currently available on both the App Store and Google Play.
 |---------------------------------------|-------------------------------------------|
 | <img src="iosMomdyn.png" width="280"> | <img src="androidMomdyn.png" width="295"> |
 
+## YouKon
+It is an everyday task of a mechanical engineer to receive parametric data from some source (contractor, collaborator, etc), and have to store and convert it to the intended format and units to be used in a model.
+Frequently, we depend on multiple sources, each with their own systems and conventions.
+My idea with [YouKon](https://github.com/radcli14/youkon) is to create a unit converter app, but rather than converting a single measurement at a time, allow the user to store multiple measurements in a project, and multiple projects in their user account.
+This is also my first foray into the Kotlin Multiplatform Mobile framework, which I will use to have a common backend architecture that deploys to both Android and iOS.
+
+```mermaid
+classDiagram
+UserData --> Project
+Project --> Measurement
+class UserData {
++String name
++List~Project~ projects
+}
+class Project {
++String name
++String description
++List~Measurement~ measurement
++List~String~ images
+}
+class Measurement {
++String name
++String description
++Double value
++Measurement.Unit unit
++equivalentUnits()
++convertTo(targetUnit)
+} 
+```
 
 ## dRuBbLe
 dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
