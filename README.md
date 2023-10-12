@@ -32,26 +32,40 @@ This is also my first foray into the Kotlin Multiplatform Mobile framework, whic
 
 ```mermaid
 classDiagram
-UserData --> Project
-Project --> Measurement
-class UserData {
+YkUser --> YkProject
+YkProject --> YkMeasurement
+YkMeasurement --> YkUnit
+class YkUser {
 +String name
-+List~Project~ projects
++List~YkProject~ projects
++addProject()
++removeProject()
 }
-class Project {
+class YkProject {
 +String name
-+String description
-+List~Measurement~ measurement
++String about
++List~YkMeasurement~ measurement
 +List~String~ images
++addMeasurement()
++removeMeasurement()
 }
-class Measurement {
+class YkMeasurement {
 +String name
-+String description
++String about
 +Double value
-+Measurement.Unit unit
-+equivalentUnits()
++YkUnit unit
++String valueString
 +convertTo(targetUnit)
-} 
++convertToSystem(system)
++valueAndConversion(targetUnit)
++nameAndValueInSystem(system)
+}
+class YkUnit {
++Array~YkUnit~ allUnits
++String shortUnit()
++Array<YkUnit> equivalentUnits()
++Double conversionFactor(targetUnit)
+}
 ```
 
 ## dRuBbLe
