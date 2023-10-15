@@ -30,43 +30,7 @@ Frequently, we depend on multiple sources, each with their own systems and conve
 My idea with [YouKon](https://github.com/radcli14/youkon) is to create a unit converter app, but rather than converting a single measurement at a time, allow the user to store multiple measurements in a project, and multiple projects in their user account.
 This is also my first foray into the Kotlin Multiplatform Mobile framework, which I will use to have a common backend architecture that deploys to both Android and iOS.
 
-```mermaid
-classDiagram
-YkUser --> YkProject
-YkProject --> YkMeasurement
-YkMeasurement --> YkUnit
-class YkUser {
-+String name
-+List~YkProject~ projects
-+addProject()
-+removeProject()
-}
-class YkProject {
-+String name
-+String about
-+List~YkMeasurement~ measurement
-+List~String~ images
-+addMeasurement()
-+removeMeasurement()
-}
-class YkMeasurement {
-+String name
-+String about
-+Double value
-+YkUnit unit
-+String valueString
-+convertTo(targetUnit)
-+convertToSystem(system)
-+valueAndConversion(targetUnit)
-+nameAndValueInSystem(system)
-}
-class YkUnit {
-+Array~YkUnit~ allUnits
-+String shortUnit()
-+Array<YkUnit> equivalentUnits()
-+Double conversionFactor(targetUnit)
-}
-```
+![YouKon Block Diagram](youkonFullAppWithBlockDiagram.png)
 
 ## dRuBbLe
 dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
