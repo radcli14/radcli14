@@ -1,7 +1,8 @@
 # Summary
 
-- Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)  
-- My [resumé](https://radcli14.github.io/resume/) is hosted on GitHub and created in Markdown text
+- Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)
+- I founded DCDC LLC, for District of Columbia Dynamics & Control, and host the website [dc-engineer.com](https://www.dc-engineer.com/)
+- My [résumé](https://radcli14.github.io/resume/) is hosted on GitHub and created in Markdown text
 - I’m interested in mobile application development and 3D graphics
 - I am skilled in writing data analysis and simulation code in MATLAB and Python
 - I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
