@@ -36,7 +36,7 @@ This is also my first foray into the Kotlin Multiplatform Mobile framework, whic
 ## Euler Rotations in 3-Dimensions
 While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
 The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
-[The iOS app](https://github.com/radcli14/er3d/) includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
+[The ER3D iOS app](https://github.com/radcli14/er3d/) includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
 Also, a globe is rendered beneath the ship, with a physics-based diffuse and normal mapped material, and you may drag on the globe to update the latitude and longitude to view different parts of the Earth.
 Context menus inside the app also include text descriptions of the kinematic properties.
 
