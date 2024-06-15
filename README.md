@@ -31,7 +31,7 @@ Frequently, we depend on multiple sources, each with their own systems and conve
 My idea with [YouKon](https://github.com/radcli14/youkon) is to create a unit converter app, but rather than converting a single measurement at a time, allow the user to store multiple measurements in a project, and multiple projects in their user account.
 This is also my first foray into the Kotlin Multiplatform Mobile framework, which I will use to have a common backend architecture that deploys to both Android and iOS.
 
-![YouKon Block Diagram](youkonFullAppWithBlockDiagram.png)
+![YouKon Block Diagram](https://github.com/radcli14/youkon/blob/main/assets/youkonFullAppWithBlockDiagram.png?raw=true)
 
 ## Euler Rotations in 3-Dimensions
 While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
