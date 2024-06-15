@@ -33,6 +33,18 @@ This is also my first foray into the Kotlin Multiplatform Mobile framework, whic
 
 ![YouKon Block Diagram](youkonFullAppWithBlockDiagram.png)
 
+## Euler Rotations in 3-Dimensions
+While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
+The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
+The iOS app includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
+Also, a globe is rendered beneath the ship, with a physics-based diffuse and normal mapped material, and you may drag on the globe to update the latitude and longitude to view different parts of the Earth.
+Context menus inside the app also include text descriptions of the kinematic properties.
+
+| Yaw | Pitch | Roll |
+|-----|-------|------|
+| ![Yaw](https://github.com/radcli14/er3d/blob/main/assets/yaw.gif?raw=true) | ![Pitch](https://github.com/radcli14/er3d/blob/main/assets/pitch.gif?raw=true) | ![Roll](https://github.com/radcli14/er3d/blob/main/assets/roll.gif?raw=true) |
+
+
 ## dRuBbLe
 dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
 We would take bar stools and try to run and bounce a kickball off of the top of the stools for as far of a distance as we could across a parking lot.
@@ -73,10 +85,3 @@ In the background is the moon and Earth.
 |-----------------------------------------|---------------------------------------------|
 | <img src="iosTwoLinks.png" width="280"> | <img src="androidTwoLinks.png" width="295"> |
 
-
-## Euler Rotations in 3-Dimensions
-While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
-The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
-The iOS app includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
-
-![ER3D](er3d.gif)
