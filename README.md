@@ -33,6 +33,14 @@ This is also my first foray into the Kotlin Multiplatform Mobile framework, whic
 
 ![YouKon Block Diagram](https://github.com/radcli14/youkon/blob/main/assets/youkonFullAppWithBlockDiagram.png?raw=true)
 
+## Juego de la Rana
+
+The Basque "Juego de la Rana" ("Igel Jokoa" in Euskera, or simply "Frog Game") is a popular tavern game where one must attempt to throw a metal disc into the mouth of a brass frog statue.
+This is an augmented reality (AR) version of "Juego de la Rana," allowing one to repeatedly flick a coin into a mouth of a virtual frog, from any location you choose. 
+A 3D model of the frog statue was generated using XCode RealityKit and photogrammetry, and mounted on top of a model of the game board in Blender.
+
+![3D frog statue created using photogrammetery](https://github.com/radcli14/larana/raw/main/Images/laRanaPhotogrammetry.gif)
+
 ## Euler Rotations in 3-Dimensions
 While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
 The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
