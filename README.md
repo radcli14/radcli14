@@ -39,7 +39,11 @@ The Basque "Juego de la Rana" ("Igel Jokoa" in Euskera, or simply "Frog Game") i
 This is an augmented reality (AR) version of "Juego de la Rana," allowing one to repeatedly flick a coin into a mouth of a virtual frog, from any location you choose. 
 A 3D model of the frog statue was generated using XCode RealityKit and photogrammetry, and mounted on top of a model of the game board in Blender.
 
-![3D frog statue created using photogrammetery](https://github.com/radcli14/larana/raw/main/Images/laRanaPhotogrammetry.gif)
+| "Making of" video on YouTube                                                                                                                           | Photogrammetry Model  |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| [![YouTube video for the making of Juego de la Rana in AR](https://img.youtube.com/vi/vuecTw81q-k/0.jpg)](https://www.youtube.com/watch?v=vuecTw81q-k) | ![3D frog statue created using photogrammetery](https://github.com/radcli14/larana/raw/main/Images/laRanaPhotogrammetry.gif)
+
+
 
 ## Euler Rotations in 3-Dimensions
 While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
