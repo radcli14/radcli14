@@ -3,9 +3,9 @@
 - Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)
 - I founded DCDC LLC, for District of Columbia Dynamics & Control, and host the website [dc-engineer.com](https://www.dc-engineer.com/)
 - My [résumé](https://radcli14.github.io/resume/) is hosted on GitHub and created in Markdown text
-- I’m interested in mobile application development and 3D graphics
+- I’m interested in mobile application development and 3D graphics, with extension to augmented and mixed reality
+- - I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
 - I am skilled in writing data analysis and simulation code in MATLAB and Python
-- I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
 - I’m currently learning Unity and C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radcli14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,13 +48,14 @@ A 3D model of the frog statue was generated using XCode RealityKit and photogram
 ## Euler Rotations in 3-Dimensions
 While putting together a presentation on dynamics for aerospace applications, my team created a slide on 3D kinematics and Euler angles.
 The math and stationary diagrams were not particularly intuitive, which inspired me to create my own visualization.
-[The ER3D iOS app](https://github.com/radcli14/er3d/) includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a spaceship.
-Also, a globe is rendered beneath the ship, with a physics-based diffuse and normal mapped material, and you may drag on the globe to update the latitude and longitude to view different parts of the Earth.
-Context menus inside the app also include text descriptions of the kinematic properties.
+[The ER3D iOS app](https://github.com/radcli14/er3d/) is an Augmented Reality (AR) app created using the RealityKit framework to aid in explaining these complex topics.
+It includes slider bars to control yaw, pitch, and roll angles, which are animated using three frames and a model of the Space Shuttle.
+Also, a globe is rendered beneath the ship, and you may drag on the globe to update the latitude and longitude to view different parts of the Earth.
+Popover menus inside the app also include text descriptions of the kinematic properties.
 
 | Yaw | Pitch | Roll |
 |-----|-------|------|
-| ![Yaw](https://github.com/radcli14/er3d/blob/main/assets/yaw.gif?raw=true) | ![Pitch](https://github.com/radcli14/er3d/blob/main/assets/pitch.gif?raw=true) | ![Roll](https://github.com/radcli14/er3d/blob/main/assets/roll.gif?raw=true) |
+| ![Yaw](https://github.com/radcli14/er3d/blob/main/assets/yawRK.gif?raw=true) | ![Pitch](https://github.com/radcli14/er3d/blob/main/assets/pitchRK.gif?raw=true) | ![Roll](https://github.com/radcli14/er3d/blob/main/assets/rollRK.gif?raw=true) |
 
 
 ## dRuBbLe
