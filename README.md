@@ -21,9 +21,7 @@ Originally created in pure Python, using the Kivy framework, I have since ported
 Notably, combining Python and Swift is a major challenge, and in the process I developed the Bee Swift repository, which I believe to be the only existing clear procedure that explains how to combine Python and SwiftUI.
 MOMDYN is currently available on both the App Store and Google Play.
 
-| Native iOS With SwiftUI and SceneKit  | Native Android with Kotlin and Filament.  |
-|---------------------------------------|-------------------------------------------|
-| <img src="iosMomdyn.png" width="280"> | <img src="androidMomdyn.png" width="295"> |
+![Mobile Multibody Dynamics](momdynIosPreview.png)
 
 ## YouKon
 It is an everyday task of a mechanical engineer to receive parametric data from some source (contractor, collaborator, etc), and have to store and convert it to the intended format and units to be used in a model.
