@@ -1,12 +1,25 @@
-# Summary
+#  Eliott Radcliffe's GitHub Profile
 
-- Hi, I’m @radcli14, an aerospace and mechanical engineer, specialized in dynamics (physics of motion)
-- I founded DCDC LLC, for District of Columbia Dynamics & Control, and host the website [dc-engineer.com](https://www.dc-engineer.com/)
-- My [résumé](https://radcli14.github.io/resume/) is hosted on GitHub and created in Markdown text
-- I’m interested in mobile application development and 3D graphics, with extension to augmented and mixed reality
-- - I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming
-- I am skilled in writing data analysis and simulation code in MATLAB and Python
-- I’m currently learning Unity and C#
+<table>
+<tbody>
+<tr>
+<td><img src="dcdcShieldIcon_128.png"></td>
+<td>
+  <b>Eliott.Radcliffe@DC-Engineer.com</b>
+  <p> 📲 Specialized in mobile development targeting 3D, augmented reality, and engineering applications.</p>
+  <p> 🪙 Available for freelance or contracting in software, mechanical, or aerospace engineering.</p>
+  <p> 🇺🇸 US citizen and permanent resident of Washington, DC, currently based in Bilbao, Spain. 🇪🇸</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+I am an aerospace and mechanical engineer, specialized in dynamics, the physics of motion.
+Beginning in 2024, I paused a career in the aerospace industry and founded DCDC LLC, for District of Columbia Dynamics & Control, and host the website [dc-engineer.com](https://www.dc-engineer.com/).
+My career accomplishments are summarized in a [résumé](https://radcli14.github.io/resume/) that is hosted on GitHub and created in Markdown text.
+I’m interested in mobile application development and 3D graphics, with extension to augmented and mixed reality as a means to enhance the engineering design process.
+I have released several applications on the App Store and Google Play, and am familiar in native Swift and Kotlin programming for Android and iOS.
+As an aerospace engineer with over a decade of experience, I am an expert in writing data analysis and simulation code in MATLAB and Python.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radcli14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +36,7 @@ MOMDYN is currently available on both the App Store and Google Play.
 
 ![Mobile Multibody Dynamics](momdynIosPreview.png)
 
+
 ## YouKon
 It is an everyday task of a mechanical engineer to receive parametric data from some source (contractor, collaborator, etc), and have to store and convert it to the intended format and units to be used in a model.
 Frequently, we depend on multiple sources, each with their own systems and conventions.
@@ -31,8 +45,8 @@ This is also my first foray into the Kotlin Multiplatform Mobile framework, whic
 
 ![YouKon Block Diagram](https://github.com/radcli14/youkon/blob/main/assets/youkonFullAppWithBlockDiagram.png?raw=true)
 
-## Juego de la Rana
 
+## Juego de la Rana
 The Basque "Juego de la Rana" ("Igel Jokoa" in Euskera, or simply "Frog Game") is a popular tavern game where one must attempt to throw a metal disc into the mouth of a brass frog statue.
 This is an augmented reality (AR) version of "Juego de la Rana," allowing one to repeatedly flick a coin into a mouth of a virtual frog, from any location you choose. 
 A 3D model of the frog statue was generated using XCode RealityKit and photogrammetry, and mounted on top of a model of the game board in Blender.
@@ -40,7 +54,6 @@ A 3D model of the frog statue was generated using XCode RealityKit and photogram
 | "Making of" video on YouTube                                                                                                                           | Photogrammetry Model  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 | [![YouTube video for the making of Juego de la Rana in AR](https://img.youtube.com/vi/vuecTw81q-k/0.jpg)](https://www.youtube.com/watch?v=vuecTw81q-k) | ![3D frog statue created using photogrammetery](https://github.com/radcli14/larana/raw/main/Images/laRanaPhotogrammetry.gif)
-
 
 
 ## Euler Rotations in 3-Dimensions
@@ -55,7 +68,7 @@ Popover menus inside the app also include text descriptions of the kinematic pro
 |-----|-------|------|
 | ![Yaw](https://github.com/radcli14/er3d/blob/main/assets/yawRK.gif?raw=true) | ![Pitch](https://github.com/radcli14/er3d/blob/main/assets/pitchRK.gif?raw=true) | ![Roll](https://github.com/radcli14/er3d/blob/main/assets/rollRK.gif?raw=true) |
 
-
+<!--
 ## dRuBbLe
 dRuBbLe is the first app I ever released, based on a game we used to play in real life when I was in college.
 We would take bar stools and try to run and bounce a kickball off of the top of the stools for as far of a distance as we could across a parking lot.
@@ -95,4 +108,4 @@ In the background is the moon and Earth.
 | Swifty TwoLinks                         | KotlyOtly DobleDosLinks                     |
 |-----------------------------------------|---------------------------------------------|
 | <img src="iosTwoLinks.png" width="280"> | <img src="androidTwoLinks.png" width="295"> |
-
+-->
